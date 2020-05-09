@@ -2,3 +2,9 @@ body{
     text-align:center;
     background-color:#ffcc8e;
   }
+
+  .button{
+    position:relative;
+    display:inline-block;
+    margin:20px;
+  }
